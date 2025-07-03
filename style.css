@@ -86,6 +86,7 @@ body {
 .services {
     padding: 4rem 0;
     background: #fff;
+    margin-bottom: 0;
 }
 
 .services h2 {
