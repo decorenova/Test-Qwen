@@ -148,7 +148,6 @@ body {
     padding: 20px 30px;
     position: relative;
     width: 50%;
-    text-align: center;
 }
 
 .timeline-item::after {
@@ -267,4 +266,10 @@ body {
     color: white;
     text-align: center;
     padding: 1rem 0;
+}
+
+/* 10 étapes du copywritting */
+.about-heading {
+    text-align: center;
+    margin-bottom: 2rem;
 }
