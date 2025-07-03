@@ -110,17 +110,17 @@ body {
 }
 
 /* 10 étapes du copywritting */
-10 étapes du copywritting {
+.10 étapes du copywritting {
     padding: 4rem 0;
     background: #f5f5f5;
 }
 
-10 étapes du copywritting h2 {
+.10 étapes du copywritting h2 {
     text-align: center;
     margin-bottom: 1.5rem;
 }
 
-10 étapes du copywritting p {
+.10 étapes du copywritting p {
     max-width: 800px;
     margin: auto;
     text-align: center;
@@ -148,6 +148,7 @@ body {
     padding: 20px 30px;
     position: relative;
     width: 50%;
+    text-align: center;
 }
 
 .timeline-item::after {
