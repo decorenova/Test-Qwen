@@ -86,7 +86,7 @@ body {
 .services {
     padding: 4rem 0;
     background: #fff;
-    margin-bottom: 0;
+    margin-bottom: 3rem;
 }
 
 .services h2 {
@@ -115,10 +115,10 @@ body {
 .copywriting-steps {
     padding: 4rem 0;
     background: #f5f5f5;
-    margin-top: 3rem;
 }
 
 .copywriting-steps h2 {
+    margin-top: 2rem; /* ✅ Espace entre le début de la section et le titre */
     margin-bottom: 1.5rem;
 }
 
